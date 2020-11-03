@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-#include <Stdbool.h>
+#include <stdbool.h>
 #include <math.h>
 #include <time.h>
 #include <memory.h>
@@ -101,6 +101,6 @@ int main(void) {
 		record(model, num_layers, epoch, loss, problem);
 	}
 
-	// #layers : 5, nodes per hidden layers : 5/5/5, learning_rate : 1 ÀÏ ¶§ ÃÖÀû
-	// ÃÊ±â¿¡ ´õµò ÇĞ½À °úÁ¤À» ºüÁ®³ª°¡±â À§ÇÑ random initialization ÀÌ ¸Å¿ì Áß¿ä
+	// #layers : 5, nodes per hidden layers : 5/5/5, learning_rate : 1 ì¼ ë•Œ ìµœì 
+	// ì´ˆê¸°ì— ë”ë”˜ í•™ìŠµ ê³¼ì •ì„ ë¹ ì ¸ë‚˜ê°€ê¸° ìœ„í•œ random initialization ì´ ë§¤ìš° ì¤‘ìš”
 }
