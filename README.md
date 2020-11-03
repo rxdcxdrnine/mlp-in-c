@@ -2,7 +2,6 @@
 
 ### Multi Layer Perceptron in C
 <br>
-<br>
 Layer : Fullly-Connected
 <br>
 Activation Function : Sigmoid
