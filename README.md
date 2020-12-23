@@ -1,6 +1,6 @@
-# mlp-in-c
-
-### Multi Layer Perceptron in C
+# project-ai
+<hr/>
+2020-2 Univ. of Seoul CS AI Term Project
 <br>
 Layer : Fullly-Connected
 <br>
